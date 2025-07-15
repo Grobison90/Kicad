@@ -1,4 +1,4 @@
-(footprint "Eurorack Power (IDC p=2.54)_Stripe" (version 20221018) (generator pcbnew)
+(footprint "Eurorack Power (IDC p=2.54)_Stripe_copy" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "Through hole IDC box header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0")
   (tags "Through hole vertical IDC box header THT 2x05 2.54mm double row")
